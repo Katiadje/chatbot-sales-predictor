@@ -1,0 +1,15 @@
+# Version avec base de données - GRATUIT
+fastapi
+uvicorn
+streamlit
+python-dotenv
+requests
+
+# Base de données (GRATUIT)
+mysql-connector-python
+sqlalchemy
+pymysql
+
+# ML et data
+pandas
+numpy
